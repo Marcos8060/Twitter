@@ -1,0 +1,20 @@
+.sidebar{
+    padding-right: 40px !important;
+    width: 25%;
+    height: 100vh;
+    top: 0;
+    position: sticky;
+}
+.twitter{
+    padding: 20px;
+    color: var(--twitter-color);
+}
+.sidebar .sidebar_button{
+    margin: 20px;
+    background: var(--twitter-color) !important;
+    color: white !important;
+    font-weight: 600 !important;
+    border-radius: 30px !important;
+    border: none;
+    height: 50px;
+}

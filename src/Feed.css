@@ -1,0 +1,13 @@
+.feed{
+    width: 70%;
+    border-right: 1px solid var(--twitter-background);
+    border-left: 1px solid var(--twitter-background);
+}
+.feed_header{
+    padding-left: 20px;
+    background-color: #EFF3F4;
+    top: 0;
+    z-index: 1;
+    position: sticky;
+    padding: 12px;
+}

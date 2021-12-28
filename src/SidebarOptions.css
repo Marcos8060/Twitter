@@ -1,0 +1,12 @@
+.sidebarOptions{
+    display: flex;
+    align-items: center;
+}
+.sidebarOptions:hover{
+    background-color: var(--twitter-background);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.sidebarOptions > .MuiSvgIcon-root{
+    padding: 10px 20px;
+}
